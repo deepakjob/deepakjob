@@ -5,10 +5,10 @@ using TestApiProject.DBContext;
 using TestApiProject.Models;
 namespace TestApiProject.RepositoryService
 {
-    public class ProductManager : IProduct
+    public class ProductService : IProduct
     {
        private readonly ProductDbContext _dbContext;
-        public ProductManager(ProductDbContext dbContext)
+        public ProductService(ProductDbContext dbContext)
         { 
         _dbContext = dbContext;
         }
@@ -16,7 +16,7 @@ namespace TestApiProject.RepositoryService
         {
            // IEnumerable<ProductDetails> prodDetails = new List<ProductDetails>();
             List<ProductDetails> li = new List<ProductDetails>();
-            var details = _dbContext.ProductDetails.Select(row => row); 
+            var details = _dbContext.ProductDetails; 
             if (details != null)
             {
                 ProductDetails Prod = new ProductDetails();

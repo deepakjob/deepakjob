@@ -22,7 +22,7 @@ namespace TestApiProject.Controllers
         //GET api/<ProductController>/5
         [Route("ShowProductList")]
         [HttpGet]
-        public async Task<IEnumerable<ProductDetails>> showList()
+        public async Task<IEnumerable<ProductDetails>> showProductList()
         {
             ProductDetails pcm = new ProductDetails();
             var details = await _product.GetProductDetails();

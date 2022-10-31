@@ -13,7 +13,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ProductDbContext>(
         options => options.UseSqlServer("name=ConnectionStrings:ProductDB"));
-builder.Services.AddTransient(typeof(IProduct), typeof(ProductManager));
+builder.Services.AddTransient(typeof(IProduct), typeof(ProductService));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

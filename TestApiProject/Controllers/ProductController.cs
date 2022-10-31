@@ -1,0 +1,35 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System.Net;
+using System.Threading.Tasks;
+using TestApiProject.Models;
+
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+namespace TestApiProject.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class ProductController : ControllerBase
+    {
+        private readonly IProduct _product;
+
+        public ProductController(IProduct product)
+        { 
+        _product = product;
+        }
+        
+        //GET api/<ProductController>/5
+        [Route("ShowProductList")]
+        [HttpGet]
+        public async Task<IEnumerable<ProductDetails>> showList()
+        {
+            ProductDetails pcm = new ProductDetails();
+            var details = await _product.GetProductDetails();
+            return details;
+
+        }
+
+       
+    }
+}

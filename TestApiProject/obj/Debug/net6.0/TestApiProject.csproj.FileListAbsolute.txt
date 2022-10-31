@@ -1,0 +1,124 @@
+D:\Api Project\TestApiProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Api Project\TestApiProject\bin\Debug\net6.0\appsettings.json
+D:\Api Project\TestApiProject\bin\Debug\net6.0\TestApiProject.exe
+D:\Api Project\TestApiProject\bin\Debug\net6.0\TestApiProject.deps.json
+D:\Api Project\TestApiProject\bin\Debug\net6.0\TestApiProject.runtimeconfig.json
+D:\Api Project\TestApiProject\bin\Debug\net6.0\TestApiProject.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\TestApiProject.pdb
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Api Project\TestApiProject\obj\Debug\net6.0\TestApiProject.csproj.AssemblyReference.cache
+D:\Api Project\TestApiProject\obj\Debug\net6.0\TestApiProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api Project\TestApiProject\obj\Debug\net6.0\TestApiProject.AssemblyInfoInputs.cache
+D:\Api Project\TestApiProject\obj\Debug\net6.0\TestApiProject.AssemblyInfo.cs
+D:\Api Project\TestApiProject\obj\Debug\net6.0\TestApiProject.csproj.CoreCompileInputs.cache
+D:\Api Project\TestApiProject\obj\Debug\net6.0\TestApiProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Api Project\TestApiProject\obj\Debug\net6.0\TestApiProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Api Project\TestApiProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Api Project\TestApiProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Api Project\TestApiProject\obj\Debug\net6.0\scopedcss\bundle\TestApiProject.styles.css
+D:\Api Project\TestApiProject\obj\Debug\net6.0\TestApiProject.csproj.CopyComplete
+D:\Api Project\TestApiProject\obj\Debug\net6.0\TestApiProject.dll
+D:\Api Project\TestApiProject\obj\Debug\net6.0\refint\TestApiProject.dll
+D:\Api Project\TestApiProject\obj\Debug\net6.0\TestApiProject.pdb
+D:\Api Project\TestApiProject\obj\Debug\net6.0\TestApiProject.genruntimeconfig.cache
+D:\Api Project\TestApiProject\obj\Debug\net6.0\ref\TestApiProject.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Humanizer.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api Project\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\appsettings.json
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\TestApiProject.exe
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\TestApiProject.deps.json
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\TestApiProject.runtimeconfig.json
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\TestApiProject.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\TestApiProject.pdb
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Humanizer.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Xunit22\TestApiProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\TestApiProject.csproj.AssemblyReference.cache
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\TestApiProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\TestApiProject.AssemblyInfoInputs.cache
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\TestApiProject.AssemblyInfo.cs
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\TestApiProject.csproj.CoreCompileInputs.cache
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\TestApiProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\TestApiProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\scopedcss\bundle\TestApiProject.styles.css
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\TestApiProject.csproj.CopyComplete
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\TestApiProject.dll
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\refint\TestApiProject.dll
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\TestApiProject.pdb
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\TestApiProject.genruntimeconfig.cache
+D:\Xunit22\TestApiProject\obj\Debug\net6.0\ref\TestApiProject.dll

@@ -17,7 +17,7 @@ namespace XunitTestApi
             productService = new Mock<IProduct>();
         }
         [Fact]
-        public async void GetProductList_ProductList()
+        public async void GetProductList_ValidData()
         {
             //arrange
             var productList = GetProductsData();

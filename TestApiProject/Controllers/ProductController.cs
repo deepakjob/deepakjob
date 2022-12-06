@@ -12,9 +12,9 @@ namespace TestApiProject.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        private readonly IProduct _product;
+        private readonly IProductService _product;
 
-        public ProductController(IProduct product)
+        public ProductController(IProductService product)
         { 
         _product = product;
         }
@@ -24,12 +24,11 @@ namespace TestApiProject.Controllers
         [HttpGet]
         public async Task<IEnumerable<ProductDetails>> showProductList()
         {
-            ProductDetails pcm = new ProductDetails();
+           // ProductDetails pcm = new ProductDetails();
             var details = await _product.GetProductDetails();
             return details;
 
         }
-
        
     }
 }

@@ -11,10 +11,10 @@ namespace XunitTestApi
     public class ProductServiceTests
     {
 
-        private readonly Mock<IProduct> productService;
+        private readonly Mock<IProductService> productService;
         public ProductServiceTests()
         {
-            productService = new Mock<IProduct>();
+            productService = new Mock<IProductService>();
         }
         [Fact]
         public async void GetProductList_ValidData()
@@ -36,7 +36,7 @@ namespace XunitTestApi
 
             //assert
             Assert.NotNull(productResult);
-           // Assert.Equal(GetProductsData().Count(), productResult.Count());
+            // Assert.Equal(GetProductsData().Count(), productResult.Count());
             Assert.Equal(GetProductsData().ToString(), productResult.ToString());
             Assert.True(productList.Equals(productResult));
         }

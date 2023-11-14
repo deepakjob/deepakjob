@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Deepak Singh
 - 👀 I’m interested in Computer Application
-- 🌱 I’m currently learning Aws
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- Email ID- deepak.singh6765@gmail.com
 
 <!---
